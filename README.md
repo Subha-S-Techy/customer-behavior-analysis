@@ -39,7 +39,7 @@ The Dashboard was built using the following tools and technologies:
 •	Revenue by Age Group- Calculated total revenue contribution of each age group.
 •	
 7.	Dashboard in power BI:
-              Customer Behavior Dashboard: 
+              Customer Behavior Analysis Dashboard: https://github.com/Subha-S-Techy/customer-behavior-analysis/blob/main/Customer%20Behavior%20Analysis_Dashboard.jpg
 
 8.	Business Recommendations: 
 •	Boost Subscriptions - Promote exclusive benefits for subscribers.
